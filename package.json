@@ -1,0 +1,22 @@
+{
+  "name": "-technical_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyLuque/-technical_test.git"
+  },
+  "author": "anthony luque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyLuque/-technical_test/issues"
+  },
+  "homepage": "https://github.com/TonyLuque/-technical_test#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
